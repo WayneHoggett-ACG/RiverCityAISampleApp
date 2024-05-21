@@ -1,1 +1,1 @@
-# RiverCityAISampleApp
+# River City AI - Sample App
